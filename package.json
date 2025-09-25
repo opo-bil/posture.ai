@@ -1,0 +1,32 @@
+{
+  "name": "posture-ai",
+  "version": "1.0.0",
+  "description": "Your AI assistant for everything - a web-based ChatGPT-like interface",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "serve": "npx serve .",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "assistant",
+    "web",
+    "html",
+    "javascript",
+    "css",
+    "chatgpt",
+    "interface"
+  ],
+  "author": "Posture.AI Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opo-bil/posture.ai.git"
+  },
+  "homepage": "https://github.com/opo-bil/posture.ai",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
